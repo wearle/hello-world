@@ -1,6 +1,6 @@
 # hello-world
-My first repository
+My second repository
 
 Preparing a commit as i need to try this stuff out. 
 
-Another edit of the file. 
+Another editing of the file. 
